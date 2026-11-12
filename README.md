@@ -368,7 +368,7 @@ Task 1  →  (Tasks 2, 3, 4, 5 in any order)  →  Task 6
 ## 👤 Author
 
 **Kunjana Ganguly**
-📧 your.email@example.com
+📧 kunjana2005@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kunjana-ganguly) · [GitHub](https://github.com/kunjana30)
 
 ---
